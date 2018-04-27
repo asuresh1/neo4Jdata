@@ -1,6 +1,9 @@
-user_id,device_os
-1,"""IOS"""
-2,"""Android"""
-3,"""Android"""
-4,"""Android"""
-5,"""IOS"""
+profile_user_id,user_id,device_os
+1,1,"""IOS"""
+2,2,"""Android"""
+3,3,"""Android"""
+4,4,"""Android"""
+5,5,"""IOS"""
+1,1,"""IOS"""
+3,3,"""Android"""
+5,5,"""IOS"""
